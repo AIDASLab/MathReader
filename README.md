@@ -7,6 +7,8 @@ TTS (Text-to-Speech) document reader from Microsoft, Adobe, Apple, and OpenAI ha
 
 Here, you can find the experimental code, example wav files, and the test dataset developed for our research.
 
+---
+
 ## Example results from MathReader
 
 
