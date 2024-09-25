@@ -15,7 +15,7 @@ The experimental code and test dataset developed for our research can be found h
 1. Install Nougat and NVIDIA NeMo and transformers library in your development environment.
    - [Nougat github](https://github.com/facebookresearch/nougat)
    - [NVIDIA NeMo](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tts/models.html#vits)
-   - You can also set up the environment using the following code through the mathreader_environment.yml file: `conda env create -f ./mathreader_environment.yml`
+   - You can also set up the environment using the following code through the **mathreader_environment.yml** file: `conda env create -f ./mathreader_environment.yml`
 2. Create a folder named 'test_audio' in the same location as MathReader.py.
 
 3. Modify line 102 in MathReader.py (Write the path of the PDF file you want to perform OCR on.).
