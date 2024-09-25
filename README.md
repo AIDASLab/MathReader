@@ -24,9 +24,4 @@ The experimental code and test dataset developed for our research can be found h
 
 4. Run `python MathReader.py` in the terminal.
 
----
-
-## Experiment Results
-
-The experimental results of this study can be found at the following [link](https://drive.google.com/drive/folders/1Fb8QAFFWLukU6kDunjzg5iyKDnDCXH2I?usp=sharing). The link contains four folders, each containing the results of converting the test dataset documents into wav files.
 
