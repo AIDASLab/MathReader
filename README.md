@@ -1,12 +1,12 @@
 # MathReader: Text-to-Speech for Mathematical Documents
 
-This is the official repository for MathReader, the advanced TTS document reader for mathematical academic documents.
+This is the official repository for MathReader, an advanced TTS document reader for academic mathematical documents. 
 
 Project page: [https://hyeonsieun.github.io/MathReader_demo/](https://hyeonsieun.github.io/MathReader_demo/)
 
-### This page is for submissions to ICASSP 2025.
+### This page is for submission to ICASSP 2025.
 
-Here, you can find the experimental code and the test dataset developed for our research.
+The experimental code and test dataset developed for our research can be found here.
 
 ---
 
