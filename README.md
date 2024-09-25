@@ -13,8 +13,8 @@ The experimental code and test dataset developed for our research can be found h
 ## How to use MathReader
 
 1. Install Nougat and NVIDIA NeMo and transformers library in your development environment.
-   - Nougat github : [https://github.com/facebookresearch/nougat](https://github.com/facebookresearch/nougat)
-   - NVIDIA NeMo : [https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tts/models.html#vits](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tts/models.html#vits)
+   - [Nougat github](https://github.com/facebookresearch/nougat)
+   - [NVIDIA NeMo](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tts/models.html#vits)
 
 2. Create a folder named 'test_audio' in the same location as MathReader.py.
 
