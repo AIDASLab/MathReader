@@ -2,7 +2,7 @@
 
 This is the official repository for MathReader, an advanced TTS document reader for academic mathematical documents. 
 
-Project page: [https://hyeonsieun.github.io/MathReader_demo/](https://hyeonsieun.github.io/MathReader_demo/)
+Demo page: [https://hyeonsieun.github.io/MathReader_demo/](https://hyeonsieun.github.io/MathReader_demo/)
 
 ### This page is for submission to ICASSP 2025.
 
